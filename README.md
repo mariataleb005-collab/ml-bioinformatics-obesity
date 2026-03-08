@@ -71,9 +71,3 @@ All notebooks follow the same preprocessing pipeline:
 ```
 pandas | numpy | scikit-learn | matplotlib | seaborn | pickle
 ```
-
----
-
-## 👩‍💻 Authors
-
-Maria Taleb, Joud Yasser, Zainab Imtiaz
