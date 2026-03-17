@@ -51,8 +51,8 @@ The dataset contains health and lifestyle attributes used to classify individual
 
 | Model | R² | RMSE |
 |-------|-----|------|
-| Multiple Linear Regression | 0.29 | — |
-| Support Vector Regression | **0.67** | — |
+| Multiple Linear Regression | 0.29 | 1.64 |
+| Support Vector Regression | **0.67** | **1.12** |
 
 ---
 
