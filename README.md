@@ -37,6 +37,7 @@ The dataset contains health and lifestyle attributes used to classify individual
 - **Random Forest** (tuned with RandomizedSearchCV)
 - **Support Vector Machine** (tuned with Genetic Algorithm)
 - Model comparison and best model deployment using Pickle
+
 | Model | Accuracy | F1-Score |
 |-------|----------|----------|
 | KNN (from scratch) | ~85% | ~0.85 |
@@ -47,6 +48,7 @@ The dataset contains health and lifestyle attributes used to classify individual
 - **Multiple Linear Regression** — baseline model with residual analysis
 - **Support Vector Regression (SVR)** — tuned with GridSearchCV
 - Model comparison using MSE, RMSE, and R² metrics
+
 | Model | R² | RMSE |
 |-------|-----|------|
 | Multiple Linear Regression | 0.29 | — |
