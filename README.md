@@ -89,5 +89,5 @@ All notebooks follow the same preprocessing pipeline:
 
 ## 👩‍💻 Author
 
-**Maria Rooeintan** — Biomedical Informatics Student @ University of Sharjah  
+**Maria Taleb** — Biomedical Informatics Student @ University of Sharjah  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-taleb-64058a371/)
