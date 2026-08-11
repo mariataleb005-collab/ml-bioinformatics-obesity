@@ -27,12 +27,12 @@ The dataset contains health and lifestyle attributes used to classify individual
 
 ## 🤖 Models Implemented
 
-### Assignment 1 — KNN from Scratch
+### Part 1 — KNN from Scratch
 - Custom KNN classifier supporting Euclidean and Manhattan distance
 - Grid search for hyperparameter tuning (k, distance metric)
 - Cross-validation, confusion matrix, ROC & AUC analysis
 
-### Assignment 2 — Classification Models
+### Part 2 — Classification Models
 - **KNN** (custom implementation with hyperparameter tuning)
 - **Random Forest** (tuned with RandomizedSearchCV)
 - **Support Vector Machine** (tuned with Genetic Algorithm)
@@ -44,7 +44,7 @@ The dataset contains health and lifestyle attributes used to classify individual
 | Random Forest | **94.8%** | **0.948** |
 | SVM (Genetic Algorithm) | 88.5% | 0.886 |
 
-### Assignment 3 — Regression Models
+### Part 3 — Regression Models
 - **Multiple Linear Regression** — baseline model with residual analysis
 - **Support Vector Regression (SVR)** — tuned with GridSearchCV
 - Model comparison using MSE, RMSE, and R² metrics
